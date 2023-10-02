@@ -1,0 +1,5 @@
+cloner un repository : git clone URL_du_repository
+
+les 3 commande de push : git commit -m 'nom_de_la_note'
+                         git remote add origin URL_du_repository
+			 git push origin main	
